@@ -77,7 +77,5 @@ module.exports = Blockchain;
   }
   return nonce;
 };
-Hello Git
-hi AbortController 
-HashChangeEvent
-hi=====*****
+HTMLIFrameElement
+GeolocationPosition
