@@ -79,3 +79,5 @@ module.exports = Blockchain;
 };
 HTMLIFrameElement
 GeolocationPosition
+ActiveXObject
+BiquadFilterNode
